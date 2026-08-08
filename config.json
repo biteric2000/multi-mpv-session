@@ -1,0 +1,44 @@
+﻿{
+  "mpvPath": "C:/Program Files/mpv/mpv.exe",
+  
+  "ffprobePath": "C:/Soft/ffmpeg/ffprobe.exe",
+
+  "directories": [
+    "D:/Movie/",
+    "E:/Movie/"
+  ],
+
+  "grid": {
+    "columns": 2,
+    "rows": 2
+  },
+
+  "randomStart": {
+    "minRatio": 0.0,
+    "maxRatio": 0.8
+  },
+
+  "minDurationSeconds": 10,
+
+  "videoExtensions": [
+    ".mp4",
+    ".mkv",
+    ".avi",
+    ".mpg",
+    ".mpeg",
+    ".mov",
+    ".wmv",
+    ".flv",
+    ".webm",
+    ".m4v",
+    ".ts",
+    ".m2ts"
+  ],
+
+  "mute": true,
+
+  "volume": 50,
+
+  "extraMpvArgs": [
+  ]
+}
