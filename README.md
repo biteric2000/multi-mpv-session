@@ -112,6 +112,9 @@ if pid then
     local pipe_name = "\\\\.\\pipe\\mpv_ipc_" .. tostring(pid)
     mp.set_property("options/input-ipc-server", pipe_name)
 end
+
+
+
 说明：mpv 提供只读属性 pid，可获取当前进程 ID。该脚本会在 mpv 启动时自动把 IPC 管道设置为 mpv_ipc_<PID>，无需手动传参。
 
 第三步：放置本项目脚本
