@@ -1,7 +1,3 @@
-解读repo，更新GitHub的readme为最新版，反映当前情况。https://github.com/biteric2000/multi-mpv-session
-
-基于你提供的附件内容，我来为你生成一个更新版的 README.md，反映当前仓库的实际情况（包括新增的 GUI 工具）：
-
 ```markdown
 # multi-mpv-session
 
