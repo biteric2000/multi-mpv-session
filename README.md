@@ -242,12 +242,12 @@ pip install -r requirements.txt  # 如果有 requirements.txt
 
 ## 📅 更新日志
 
-### v1.1.0 (2026)
+### v1.1.0 (2026.8)
 - ✨ 新增 GUI 版本（`mpv_state_gui.py` 和 `random_grid_mpv_gui.py`）
 - 🐛 修复窗口恢复时偶发的位置偏移问题
 - 📝 优化 README 文档结构
 
-### v1.0.0 (2025)
+### v1.0.0 (2026.7)
 - 🎉 初始版本发布
 - ✅ 支持保存/恢复 mpv 播放状态
 - ✅ 支持随机网格播放器
