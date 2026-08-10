@@ -3,11 +3,6 @@
 
 MPV 多进程播放状态保存与恢复工具，支持 PowerShell 脚本和图形界面（GUI）两种使用方式。
 
-![Windows](https://img.shields.io/badge/Windows-10/11-0078D6?style=flat-square&logo=windows)
-![PowerShell](https://img.shields.io/badge/PowerShell-5.1+-blue?style=flat-square&logo=powershell)
-![Python](https://img.shields.io/badge/Python-3.6+-green?style=flat-square&logo=python)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
-
 ## ✨ 功能特性
 
 本仓库提供两套独立的 mpv 增强工具：
